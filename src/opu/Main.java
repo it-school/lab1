@@ -24,7 +24,7 @@ public class Main {
     */
    private static void task280() {
       System.out.println("task280");
-      Random random = new Random();
+      final Random random = new Random();
 
       int points1;
       int points2;
@@ -52,6 +52,11 @@ public class Main {
       }
    }
 
+   /**
+    * main function
+    *
+    * @param args command line arguments
+    */
    public static void main(String[] args) {
       task279();
       task280();
