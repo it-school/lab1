@@ -4,6 +4,7 @@ import java.util.Random;
 
 /**
  * Speranskyy Viktor, #30
+ * https://github.com/it-school/lab1
  */
 public class Main {
    /**
